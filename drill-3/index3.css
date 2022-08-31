@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #D8D8D8;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+article {
+    padding: 50px
+}
+
+.blue-square {
+    background-color: #4A90E2;
+    height: 75px;
+    width: 75px;
+}
+
+.fill {
+    height: 25vh;
+    padding: 10px;
+
+}
+
+.text  p {
+    text-align: start;
+   
+}
+
+.rectangle {
+    height: 25vh;
+}
+
+.rectangle-1 {
+
+    background-color: #4A90E2;
+}
+
+.rectangle-2 {
+
+    background-color: #50E3C2;
+
+}
+
+.rectangle-3 {
+
+    background-color: #B8E986;
+
+}
+
+.rectangle-4 {
+
+    background-color: #F8E71C;
+
+}
+
+
+.question-button button{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    height: 50px;
+    width: 50px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 30px;
+
+}
